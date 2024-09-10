@@ -1,0 +1,2 @@
+call terraform destroy
+@pause
