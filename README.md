@@ -1,4 +1,4 @@
-# OCI VM with Terraform
+# OCI Linux VM with Terraform
 
 Sample configuration to setup OCI virtual machine using Terraform infrastructure-as-code
 
